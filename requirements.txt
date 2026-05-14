@@ -1,0 +1,5 @@
+google_auth_oauthlib==1.4.0
+protobuf==7.34.1
+pyperclip==1.11.0
+Requests==2.34.1
+selenium==4.44.0
